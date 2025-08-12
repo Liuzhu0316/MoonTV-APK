@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.moontv.mm.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.moontv.mm.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.moontv.mm.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.moontv.mm.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.moontv.mm.app-debug-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.moontv.mm.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moontv.mm.app-debug-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.moontv.mm.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moontv.mm.app-debug-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.moontv.mm.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moontv.mm.app-debug-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.moontv.mm.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.moontv.mm.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.moontv.mm.app-main-34:\\xml\\data_extraction_rules.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- 基础应用主题 -->
+    <style name="Theme.MoonTV" parent="Theme.AppCompat.NoActionBar">
+        <!-- 主色调 -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- 背景色 -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- 沉浸模式设置 -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- 全屏显示 -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!-- Android 15+ 主题设置 -->
+    <style name="Theme.MoonTV.Android15" parent="Theme.MoonTV">
+        <item name="android:windowTranslucentStatus" tools:targetApi="31">false</item>
+        <item name="android:windowTranslucentNavigation" tools:targetApi="31">false</item>
+    </style>
+</resources>

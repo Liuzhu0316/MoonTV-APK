@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <style name="Theme.MoonTV" parent="Theme.AppCompat.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="android:windowBackground">@color/white</item>
+        
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.MoonTV.Android15" parent="Theme.MoonTV">
+        <item name="android:windowTranslucentStatus" ns1:targetApi="31">false</item>
+        <item name="android:windowTranslucentNavigation" ns1:targetApi="31">false</item>
+    </style>
+</resources>
