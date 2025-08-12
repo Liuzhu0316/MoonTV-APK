@@ -3,6 +3,15 @@
 ## 产品简介
 MoonTV是一款基于Chrome内核的套壳浏览器应用，专为简化网页访问体验而设计。应用启动后会自动跳转到指定网址，提供沉浸式浏览体验，支持横竖屏自动切换。
 
+## 产品生成
+1. Trae"https://www.trae.cn/"
+2. AI调用"Doubao-seed-1.6,Qwen-3-Coder"
+3. Android Studio"https://developer.android.google.cn/studio?hl=zh-cn"
+4. Gradle"https://gradle.org/"
+5. Java-17"https://www.java.com/zh-CN/"
+6.MoonTV"https://github.com/LunaTechLab/MoonTV"
+7.Cloudflare"https://dash.cloudflare.com/"
+
 ## 主要功能
 1. **Chrome内核浏览**：采用高性能Chrome内核，确保网页加载快速流畅
 2. **自动跳转**：启动应用后自动跳转到指定URL：`https://moontv.jsdh.us.kg/`
