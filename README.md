@@ -10,7 +10,7 @@ Android Studio key密钥位于app目录下
 URL设置：app\src\main\java\com\moontv\mm\MainActivity.java 第44行修改。
 
 ## 产品简介
-MoonTV是一款基于Chrome内核的套壳浏览器应用，专为简化网页访问体验而设计。应用启动后会自动跳转到指定网址，提供沉浸式浏览体验，支持横竖屏自动切换。
+MoonTV是一款基于Android原生的WebView组件的应用，专为简化网页访问体验而设计。应用启动后会自动跳转到指定网址，提供沉浸式浏览体验，支持横竖屏自动切换。
 
 ## 产品生成
 Trae"https://www.trae.cn/"
